@@ -1,4 +1,4 @@
-Amnesia the Dark Descent
+Amnesia: A Machine for Pigs
 
 **Tested on:** Fedora Asahi Remix 42
 **Device:** MacBook Pro M2 Max (96 GB RAM)
@@ -20,7 +20,7 @@ Amnesia the Dark Descent
 
 ### 🧩 Launch Command
 ``` sudo dnf install box64
-box64 Amnesia_NOSTEAM.bin.x86_64
+box64 AmnesiaAMFP_NO_STEAM.bin.x86_64
 ```
 
 ---
