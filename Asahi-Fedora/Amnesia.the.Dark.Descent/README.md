@@ -22,7 +22,7 @@ Amnesia the Dark Descent
 
 ### 🧩 Launch Command
 ``` sudo dnf install box64
-box64 Amnesia
+box64 Amnesia_NOSTEAM.bin.x86_64
 ```
 
 ---
